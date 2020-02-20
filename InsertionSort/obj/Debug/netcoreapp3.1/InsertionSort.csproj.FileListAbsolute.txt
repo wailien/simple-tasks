@@ -1,0 +1,11 @@
+C:\Users\wailien\RiderProjects\simple-tasks\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.exe
+C:\Users\wailien\RiderProjects\simple-tasks\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.deps.json
+C:\Users\wailien\RiderProjects\simple-tasks\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.json
+C:\Users\wailien\RiderProjects\simple-tasks\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.dev.json
+C:\Users\wailien\RiderProjects\simple-tasks\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\wailien\RiderProjects\simple-tasks\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.pdb
+C:\Users\wailien\RiderProjects\simple-tasks\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csprojAssemblyReference.cache
+C:\Users\wailien\RiderProjects\simple-tasks\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\wailien\RiderProjects\simple-tasks\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfo.cs
+C:\Users\wailien\RiderProjects\simple-tasks\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\wailien\RiderProjects\simple-tasks\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.pdb

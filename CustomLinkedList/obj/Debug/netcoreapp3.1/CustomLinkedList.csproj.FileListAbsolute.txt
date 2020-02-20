@@ -1,0 +1,11 @@
+C:\Users\wailien\RiderProjects\simple-tasks\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.deps.json
+C:\Users\wailien\RiderProjects\simple-tasks\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.dll
+C:\Users\wailien\RiderProjects\simple-tasks\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.pdb
+C:\Users\wailien\RiderProjects\simple-tasks\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.csprojAssemblyReference.cache
+C:\Users\wailien\RiderProjects\simple-tasks\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\wailien\RiderProjects\simple-tasks\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfo.cs
+C:\Users\wailien\RiderProjects\simple-tasks\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.dll
+C:\Users\wailien\RiderProjects\simple-tasks\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.pdb
+C:\Users\wailien\RiderProjects\simple-tasks\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.exe
+C:\Users\wailien\RiderProjects\simple-tasks\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.runtimeconfig.json
+C:\Users\wailien\RiderProjects\simple-tasks\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.runtimeconfig.dev.json

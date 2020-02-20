@@ -1,0 +1,11 @@
+C:\Users\wailien\RiderProjects\simple-tasks\CustomBinaryTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.csprojAssemblyReference.cache
+C:\Users\wailien\RiderProjects\simple-tasks\CustomBinaryTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.AssemblyInfoInputs.cache
+C:\Users\wailien\RiderProjects\simple-tasks\CustomBinaryTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.AssemblyInfo.cs
+C:\Users\wailien\RiderProjects\simple-tasks\CustomBinaryTree\bin\Debug\netcoreapp3.1\CustomBinaryTree.exe
+C:\Users\wailien\RiderProjects\simple-tasks\CustomBinaryTree\bin\Debug\netcoreapp3.1\CustomBinaryTree.deps.json
+C:\Users\wailien\RiderProjects\simple-tasks\CustomBinaryTree\bin\Debug\netcoreapp3.1\CustomBinaryTree.runtimeconfig.json
+C:\Users\wailien\RiderProjects\simple-tasks\CustomBinaryTree\bin\Debug\netcoreapp3.1\CustomBinaryTree.runtimeconfig.dev.json
+C:\Users\wailien\RiderProjects\simple-tasks\CustomBinaryTree\bin\Debug\netcoreapp3.1\CustomBinaryTree.dll
+C:\Users\wailien\RiderProjects\simple-tasks\CustomBinaryTree\bin\Debug\netcoreapp3.1\CustomBinaryTree.pdb
+C:\Users\wailien\RiderProjects\simple-tasks\CustomBinaryTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.dll
+C:\Users\wailien\RiderProjects\simple-tasks\CustomBinaryTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <OutputType>WinExe</OutputType>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <StartupObject>InsertionSort.InsertionSort</StartupObject>
+    </PropertyGroup>
+
+</Project>
